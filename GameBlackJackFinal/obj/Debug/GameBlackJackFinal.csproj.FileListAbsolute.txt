@@ -1,0 +1,7 @@
+C:\Repositories\GameBlackJackFinal\GameBlackJackFinal\bin\Debug\GameBlackJackFinal.exe.config
+C:\Repositories\GameBlackJackFinal\GameBlackJackFinal\bin\Debug\GameBlackJackFinal.exe
+C:\Repositories\GameBlackJackFinal\GameBlackJackFinal\bin\Debug\GameBlackJackFinal.pdb
+C:\Repositories\GameBlackJackFinal\GameBlackJackFinal\obj\Debug\GameBlackJackFinal.csprojAssemblyReference.cache
+C:\Repositories\GameBlackJackFinal\GameBlackJackFinal\obj\Debug\GameBlackJackFinal.csproj.CoreCompileInputs.cache
+C:\Repositories\GameBlackJackFinal\GameBlackJackFinal\obj\Debug\GameBlackJackFinal.exe
+C:\Repositories\GameBlackJackFinal\GameBlackJackFinal\obj\Debug\GameBlackJackFinal.pdb
